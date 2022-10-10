@@ -1,7 +1,7 @@
 # Contributing to [Weather-App](https://github.com/GreenJ84/Weather-Forecast-App)
 
-[![GitHub Issues](https://img.shields.io/github/issues/Sanket1308/Weather-App?style=flat-square&logo=github&color=f00)](https://github.com/GreenJ84/Weather-Forecast-App/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/Sanket1308/Weather-App?style=flat-square&color=0A66C2&logo=github)](https://github.com/GreenJ84/Weather-Forecast-App/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/GreenJ84/Weather-Forecast-App?style=flat-square&logo=github&color=f00)](https://github.com/GreenJ84/Weather-Forecast-App/issues)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/GreenJ84/Weather-Forecast-App?style=flat-square&color=0A66C2&logo=github)](https://github.com/GreenJ84/Weather-Forecast-App/pulls)
 
 Dont Hesitate to:
 
