@@ -8,7 +8,8 @@ Dont Hesitate to:
 - Report a bug
 - Submit a fix
 - Propose new features
-- (I will get back to you as soon as I can!)
+
+#### (I will get back to you as soon as I can!)
 
 
 ## Contribute Easily
@@ -82,7 +83,7 @@ git push -u origin <your_branch_name>
 
 **14.** Click on `Create Pull Request`.
 
-#### All DOne! You have made a PR to the Weather-Forecast-App. Wait for your submission to be accepted and your PR to be merged.
+#### All Done! You have made a PR to the Weather-Forecast-App. Wait for your submission to be accepted and your PR to be merged.
 
 Thank you for your contributions!
 
