@@ -81,6 +81,14 @@ input:checked + .slider:before {
     height: 260px;
     margin: 8% 5% 0;
     background-color: grey;
+    display: flex;
+    padding: 1% 2%;
+}
+.forecastday{
+    background-color: blue;
+    width: 33%;
+    height: 100%;
+    margin-right: 1%;
 }
 
 .col-xs-1 {width: 8.33%;}
